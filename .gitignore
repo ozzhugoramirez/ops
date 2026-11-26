@@ -1,0 +1,20 @@
+# Binarios compilados
+/ops
+/bin/
+*.exe
+*.out
+
+# Credenciales y configuracion local
+.env
+credentials
+config.json
+
+# Archivos temporales de ejecucion
+*.log
+*.tmp
+
+# Sistema operativo y editores
+.DS_Store
+.vscode/
+.idea/
+*.swp
